@@ -1,3 +1,4 @@
+[![more-plays-from](https://cloud.githubusercontent.com/assets/469438/16142450/a59ed3a2-3465-11e6-86dc-b6bd86a8b1c9.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/more-plays-from.afdesign)
 [![portrait-of-andre-gide](https://cloud.githubusercontent.com/assets/469438/16114425/76e7cc70-33c1-11e6-82ac-06079b37751d.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/portrait-of-andre-gide.afdesign)
 [![design-and-expression](https://cloud.githubusercontent.com/assets/469438/16069714/e8d5478c-32d0-11e6-954f-c074faaf199f.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/design-and-expression.afdesign)
 [![counseling-and-accountability](https://cloud.githubusercontent.com/assets/469438/16034537/a792c4fc-3212-11e6-8756-31cd24731049.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/counseling-and-accountability.afdesign)
