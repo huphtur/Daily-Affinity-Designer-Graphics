@@ -1,3 +1,4 @@
+[![first-aid](https://cloud.githubusercontent.com/assets/469438/16179088/31f55572-365c-11e6-8dc6-a8f5743968ca.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/first-aid.afdesign)
 [![8-americans](https://cloud.githubusercontent.com/assets/469438/16169246/1f628226-3527-11e6-90ed-91390bb2f845.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/8-americans.afdesign)
 [![more-plays-from](https://cloud.githubusercontent.com/assets/469438/16142450/a59ed3a2-3465-11e6-86dc-b6bd86a8b1c9.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/more-plays-from.afdesign)
 [![portrait-of-andre-gide](https://cloud.githubusercontent.com/assets/469438/16114425/76e7cc70-33c1-11e6-82ac-06079b37751d.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/portrait-of-andre-gide.afdesign)
