@@ -1,3 +1,4 @@
+[![techniques-of-leadership](https://cloud.githubusercontent.com/assets/469438/16185359/7aaf6818-36c3-11e6-9288-fc67cd07c791.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/techniques-of-leadership.afdesign)
 [![first-aid](https://cloud.githubusercontent.com/assets/469438/16179088/31f55572-365c-11e6-8dc6-a8f5743968ca.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/first-aid.afdesign)
 [![8-americans](https://cloud.githubusercontent.com/assets/469438/16169246/1f628226-3527-11e6-90ed-91390bb2f845.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/8-americans.afdesign)
 [![more-plays-from](https://cloud.githubusercontent.com/assets/469438/16142450/a59ed3a2-3465-11e6-86dc-b6bd86a8b1c9.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/more-plays-from.afdesign)
