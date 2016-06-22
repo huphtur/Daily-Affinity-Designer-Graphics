@@ -1,3 +1,4 @@
+[![oridinary-sequential-equations](https://cloud.githubusercontent.com/assets/469438/16282182/3bf14670-388d-11e6-91bd-ba2c007c1f1d.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/oridinary-sequential-equations.afdesign)
 [![communicating](https://cloud.githubusercontent.com/assets/469438/16250385/90ded70c-37e2-11e6-9734-3a07df5f766d.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/communicating.afdesign)
 [![techniques-of-leadership](https://cloud.githubusercontent.com/assets/469438/16185359/7aaf6818-36c3-11e6-9288-fc67cd07c791.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/techniques-of-leadership.afdesign)
 [![first-aid](https://cloud.githubusercontent.com/assets/469438/16179088/31f55572-365c-11e6-8dc6-a8f5743968ca.png)](https://github.com/huphtur/Daily-Affinity-Design-Graphics/raw/master/first-aid.afdesign)
